@@ -1,0 +1,2 @@
+# Beauty
+just a site
